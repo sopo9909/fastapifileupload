@@ -49,7 +49,7 @@ if __name__ == "__main__":
     config: dict = {
         "app": "main:app",
         "host": "0.0.0.0",
-        "port": "8080",
+        "port": 8080,
         "access_log": True,
         "reload": False,
     }
